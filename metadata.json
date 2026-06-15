@@ -1,0 +1,6 @@
+{
+  "name": "Bogor City Futsal Academy",
+  "description": "Bogor City Futsal Academy is a premium athletic training center offering youth development pathways, professional coaching, and modern curriculum to build future champions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
